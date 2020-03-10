@@ -6,7 +6,7 @@ Se questa lista non è completa potete contribuire in tre modi:
 
 - Aprendo una [pull request][editreadme]
 - Inviando una [e-mail](mailto:jserafin@dataframer.com)  
-- Con un messaggio [Whatsapp](+4407449636998)  
+- Con un messaggio Whatsapp +4407449636998  
 
 ___
 
