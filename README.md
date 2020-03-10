@@ -1,7 +1,5 @@
 # covid19-italy-fund-raising
 
-## Descrizione
-
 Questo repository ha lo scopo di raccogliere i riferimenti di tutte le campagne di raccolta fondi attive sul territorio italiano dedicate al corona virus.
 
 Se questa lista non è completa potete contribuire in tre modi:
@@ -12,7 +10,7 @@ Se questa lista non è completa potete contribuire in tre modi:
 
 ___
 
-## Contents <!-- omit in toc -->
+# Contents <!-- omit in toc -->
 
 <!-- TOC -->
 
@@ -40,34 +38,36 @@ ___
 
 <!-- /TOC -->
 
+___
+
 ## Globale  
 
 | | |
 | ------------- | -------------------------------- |
 | [Protezione Civile](https://bit.ly/38BIBVD) | Campagna a favore della protezione civile |
-| [#NonLasciamoIndietroNessuno](https://www.gofundme.com/f/nonlasciamoindietronessuno) | Founder dell’Iniziativa: Gruppo Giovani Assolombarda, Newco Management Srl, Andrea Petagna, Alfio Bardolla Training Group Spa, Spartan Tech Srl, Pop Sports,Agam, Forum Ecnomia Innovazione, Asseimpredil ANCE Milano, Junior Enterprise Italy, ELSA Milano, Associazione Italiana per la Direzione del Personale, Starting Finance Srl, GaragErasums, Aiesec Italia.|
+| [#NonLasciamoIndietroNessuno](https://www.gofundme.com/f/nonlasciamoindietronessuno) | Fondi che verranno devoluti alle strutture ospedaliere in maggiore difficoltà |
 
-### Piemonte  
+## Piemonte  
 
 | | |
 | ------------- | -------------------------------- |
 | [Luciana Littizzetto](https://www.gofundme.com/f/coronavirus-riprendiamo-fiato) | Ospedali della regione Piemonte |
 
-### Valle d Aosta  
+## Valle d Aosta  
 
 <!---
 | | |
 | ------------- | -------------------------------- |
 --->
 
-### Liguria  
+## Liguria  
 
 <!---
 | | |
 | ------------- | -------------------------------- |
 --->
 
-### Lombardia  
+## Lombardia  
 
 | | |
 | ------------- | -------------------------------- |  
@@ -89,33 +89,33 @@ ___
 | [Selena Di Miceli](https://bit.ly/2wJ5BVu)| Fondazione IRCCS Policlinico San Matteo |
 | [Croce Rossa San Donato Milanese](https://www.facebook.com/donate/1144392135940427/?fundraiser_source=external_url) | Emergenza Coronavirus - Raccolta fondi CRI San Donato Milanese |
 
-### Alto Adige  
+## Alto Adige  
 
 <!---
 | | |
 | ------------- | -------------------------------- |
 --->
 
-### Trentino  
+## Trentino  
 
 | | |
 | ------------- | -------------------------------- |
 | [Edoardo Meneghini](https://bit.ly/39RLL92) | Sistema sanitario Trentino |
 
-### Veneto  
+## Veneto  
 
 <!---
 | | |
 | ------------- | -------------------------------- |
 --->
 
-### Friuli Venezia Giulia  
+## Friuli Venezia Giulia  
 
 | | |
 | ------------- | -------------------------------- |
 [Guido Variola](https://bit.ly/3aNg2pV) | Ospedale di Udine |
 
-### Emilia Romagna  
+## Emilia Romagna  
 
 | | |
 | ------------- | -------------------------------- |
@@ -124,66 +124,66 @@ ___
 | [Susanna Ismenghi e Asia Barugolo](https://bit.ly/39GqGP4) | Ospedale Infermi di Rimini |
 | [Chiara CF](https://bit.ly/3aHXwPr) | Ospedale di Modena e Baggiovara |
 
-### Toscana  
+## Toscana  
 
 | | |
 | ------------- | -------------------------------- |
 | [Michele Leonardi](https://bit.ly/2vXAJ3r) | Ospedale Versilia |
 | [Selena Di Miceli](https://bit.ly/2xtbcj9) | Ospedale di Lucca |
 
-### Umbria  
+## Umbria  
 
 <!---
 | | |
 | ------------- | -------------------------------- |
 --->
 
-### Marche  
+## Marche  
 
 | | |
 | ------------- | -------------------------------- |
 | [Claudia Gatti e Giuliana Gatti](https://bit.ly/2wGN0JH) | Ospedale San Salvatore di Pesaro |
 
-### Lazio  
+## Lazio  
 
 | | |
 | ------------- | -------------------------------- |
 | [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Istituto Spallanzani di Roma |
 
-### Abruzzo  
+## Abruzzo  
 
 <!---
 | | |
 | ------------- | -------------------------------- |
 --->
 
-### Molise  
+## Molise  
 
 <!---
 | | |
 | ------------- | -------------------------------- |
 --->
 
-### Campania  
+## Campania  
 
 | | |
 | ------------- | -------------------------------- |
 | [Federica De Masi](https://bit.ly/39Gp87s) | Ospedale Cotugno di Napoli |
 
-### Puglia  
+## Puglia  
 
 | | |
 | ------------- | -------------------------------- |
 | [Barbara Palazzi](https://bit.ly/2vTuPAk) | Rafforzare le terapie intensive Pugliesi |
 
-### Basilicata  
+## Basilicata  
 
 <!---
 | | |
 | ------------- | -------------------------------- |
 --->
 
-### Calabria  
+## Calabria  
 
 | | |
 | ------------- | -------------------------------- |
@@ -191,13 +191,13 @@ ___
 | [Alfredo Taranto](https://bit.ly/2vJR8IV) | Azienda ospedaliera di Cosenza |
 | [Help Calabria](https://bit.ly/336rJ8o) | Ospedale Annunziata di Cosenza e il Pugliese Ciaccio di Catanzaro |
 
-### Sicilia  
+## Sicilia  
 
 | | |
 | ------------- | -------------------------------- |
 | [Enrico Bellinghieri](https://bit.ly/39EYdcq)  | Ospedale Papardo di Messina |
 
-### Sardegna  
+## Sardegna  
 
 <!---
 | | |
