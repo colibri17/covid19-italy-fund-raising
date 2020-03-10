@@ -1,4 +1,4 @@
-# Covid-19-funds
+# covid19-italy-fund-raising
 
 ## Descrizione
 Questo repository ha lo scopo di raccogliere i riferimenti di tutte le campagne di raccolta fondi attive sul territorio italiano dedicate al corona virus.
@@ -22,4 +22,6 @@ Di seguito riferimenti e le informazioni utili. Ho usato bitly (https://bitly.co
 | Annalisa Colnago e Luana Saiu | Ospedale San Gerardo di Monza | https://bit.ly/3aJdaKq |
 | Ospedale Policlinico di Milano | Ospedale Policlinico di Milano | https://bit.ly/33akMDs |
 | Fondazione Policlinico Sant'Orsola di Bologna | Ospedali di Bologna | https://bit.ly/336z1ZE |
+| Stefano Bacchini | Ospedale Maggiore di Parma | https://bit.ly/2TTGjfh |
+| Milena Porcu | Ospedale di Crema | https://bit.ly/2IBnrg0 |
 
