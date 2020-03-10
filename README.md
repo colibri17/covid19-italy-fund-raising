@@ -34,16 +34,14 @@ Questo repository ha lo scopo di raccogliere i riferimenti di tutte le campagne 
 
 
 ## Globale  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
-___
+| [Protezione Civile] (https://bit.ly/38BIBVD) | Campagna a favore della protezione civile |
+
 ### Piemonte  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
+| [Luciana Littizzetto](https://www.gofundme.com/f/coronavirus-riprendiamo-fiato) | Ospedali della regione Piemonte |
 ### Valle d Aosta  
 <!---
 | | |
@@ -69,6 +67,10 @@ ___
 | [Annalisa Colnago e Luana Saiu](https://bit.ly/3aJdaKq ) | Ospedale San Gerardo di Monza |
 | [Ospedale Policlinico di Milano](https://bit.ly/33akMDs) | Ospedale Policlinico di Milano |
 | [Milena Porcu](https://bit.ly/2IBnrg0) | Ospedale di Crema |
+| [Chiara Villa](https://bit.ly/38BpVWd) | Ospedale Niguarda di Milano |
+| [Elisa Ghezzi](https://bit.ly/2vaTsrX) | Ospedale di Piacenza |
+| [Eleonora Pasqualone](https://bit.ly/33iqvHr)| Ospedale Morelli Sondalo |
+| [Valentina Tomirotti](https://bit.ly/3aKnBxm) | Ospedale di Mantova |
 
 ### Alto Adige  
 <!---
@@ -76,47 +78,43 @@ ___
 | ------------- | -------------------------------- | 
 --->
 ### Trentino  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
+| [Edoardo Meneghini](https://bit.ly/39RLL92) | Sistema sanitario Trentino |
 ### Veneto  
 <!---
 | | |
 | ------------- | -------------------------------- | 
 --->
 ### Friuli Venezia Giulia  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
+[Guido Variola](https://bit.ly/3aNg2pV) | Ospedale di Udine |
 ### Emilia Romagna  
 
 | | |
 | ------------- | -------------------------------- | 
 | [Fondazione Policlinico Sant'Orsola di Bologna](https://bit.ly/336z1ZE) | Ospedali di Bologna |
 | [Stefano Bacchini](https://bit.ly/2TTGjfh) | Ospedale Maggiore di Parma |
+| [Susanna Ismenghi e Asia Barugolo](https://bit.ly/39GqGP4) | Ospedale Infermi di Rimini |
 
 ### Toscana  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
+| [Michele Leonardi](https://bit.ly/2vXAJ3r) | Ospedale Versilia |
 ### Umbria  
 <!---
 | | |
 | ------------- | -------------------------------- | 
 --->
 ### Marche  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
+| [Claudia Gatti e Giuliana Gatti](https://bit.ly/2wGN0JH) | Ospedale San Salvatore di Pesaro |
 ### Lazio  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
+| [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Istituto Spallanzani di Roma |
 ### Abruzzo  
 <!---
 | | |
@@ -134,20 +132,19 @@ ___
 | [Federica De Masi](https://bit.ly/39Gp87s) | Ospedale Cotugno di Napoli |
 
 ### Puglia  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
+| [Barbara Palazzi](https://bit.ly/2vTuPAk) | Rafforzare le terapie intensive Pugliesi |
 ### Basilicata  
 <!---
 | | |
 | ------------- | -------------------------------- | 
 --->
 ### Calabria  
-<!---
 | | |
 | ------------- | -------------------------------- | 
---->
+| [Francesco Gentile](https://bit.ly/2TRL6Op) | Ospedale di Reggio Calabria |
+| [Alfredo Taranto](https://bit.ly/2vJR8IV) | Azienda ospedaliera di Cosenza |
 ### Sicilia  
 
 | | |
