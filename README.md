@@ -45,7 +45,7 @@ ___
 | | |
 | ------------- | -------------------------------- |
 | [Protezione Civile](https://bit.ly/38BIBVD) | Campagna a favore della protezione civile |
-| [#NonLasciamoIndietroNessuno](https://www.gofundme.com/f/nonlasciamoindietronessuno) | Fondi che verranno devoluti alle strutture ospedaliere in maggiore difficoltà |
+| [#Non Lasciamo Indietro Nessuno](https://www.gofundme.com/f/nonlasciamoindietronessuno) | Fondi che verranno devoluti alle strutture ospedaliere in maggiore difficoltà |
 
 ## Piemonte  
 
