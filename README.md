@@ -3,25 +3,159 @@
 ## Descrizione
 Questo repository ha lo scopo di raccogliere i riferimenti di tutte le campagne di raccolta fondi attive sul territorio italiano dedicate al corona virus.
 
-Di seguito riferimenti e le informazioni utili. Ho usato bitly (https://bitly.com) per diminuire la lunghezza degli URL e aumentare la leggibilità della pagina.
 
-## Riferimenti raccolta fondi
+## Contents <!-- omit in toc -->
 
-| Organizzatore        | Destinazione | Link  |
-| ------------- |-------------| -----:|
-| No Name Varese       | Ospedale di Circolo e Fondazione Macchi di Varese | https://bit.ly/2TWe2or |
-| Regione Lombardia       | I fondi raccolti saranno utilizzati per per sostenere le strutture sanitarie, i medici, infermieri operanti in regione Lombardia | https://bit.ly/2TDo1zZ |
-| Ospedale di Bergamo - Papa Giovanni XXIII | Ospedale Papa Giovanni XXIII di Bergamo | https://bit.ly/2v87RVO |
-| Ferragnez | ospedale San Raffaele di Milano | https://bit.ly/39DiOO5 |
-| Federica De Masi | Ospedale Cotugno di Napoli | https://bit.ly/39Gp87s |
-| Enrico Bellinghieri  | Ospedale Papardo di Messina | https://bit.ly/39EYdcq |
-| Fondazione comunitaria del Lecchese | Presidi ospedalieri di Lecco, Bellano e Merate | https://bit.ly/2Q20ztQ |
-| Fondazione della comunità Bresciana Onlus | Ospedali, medici, infermieri e volontari nella città di Brescia | https://bit.ly/2VZiIwl |
-| Fondazione spedali civili di Brescia | Acquistare per i propri presidi e per tutti gli ospedali della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus | https://bit.ly/2IAxSjH |
-| Elisa Stagnati | Ospedale di Cremona | https://bit.ly/2xqypm5 |
-| Annalisa Colnago e Luana Saiu | Ospedale San Gerardo di Monza | https://bit.ly/3aJdaKq |
-| Ospedale Policlinico di Milano | Ospedale Policlinico di Milano | https://bit.ly/33akMDs |
-| Fondazione Policlinico Sant'Orsola di Bologna | Ospedali di Bologna | https://bit.ly/336z1ZE |
-| Stefano Bacchini | Ospedale Maggiore di Parma | https://bit.ly/2TTGjfh |
-| Milena Porcu | Ospedale di Crema | https://bit.ly/2IBnrg0 |
+<!-- TOC -->
 
+[Globale](#globale)  
+[Piemonte](#piemonte)   
+[Valle d Aosta](#valle-d-aosta)  
+[Liguria](#liguria)  
+[Lombardia](#lombardia)  
+[Trentino Alto Adige](#trentino-alto-adige)  
+[Veneto](#Veneto)  
+[Friuli Venezia Giulia](#friuli-venezia-giulia)  
+[Emilia Romagna](#emilia-romagna)  
+[Toscana](#toscana)  
+[Umbria](#umbria)  
+[Marche](#marche)  
+[Lazio](#lazio)  
+[Abruzzo](#abruzzo)  
+[Molise](#molise)  
+[Campania](#campania)  
+[Puglia](#puglia)  
+[Basilicata](#basilicata)  
+[Calabria](#calabria)  
+[Sicilia](#sicilia)  
+[Sardegna](#sardegna)  
+
+<!-- /TOC -->
+
+
+## Globale  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+___
+### Piemonte  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Valle d Aosta  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Liguria  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Lombardia  
+
+| | |
+| ------------- | -------------------------------- |  
+| [Regione Lombardia](https://bit.ly/2TDo1zZ) | I fondi raccolti saranno utilizzati per per sostenere le strutture sanitarie, i medici, infermieri operanti in regione Lombardia |  
+| [Ospedale di Bergamo Papa Giovanni XXIII](https://bit.ly/2v87RVO) | Ospedale Papa Giovanni XXIII di Bergamo | 
+| [Ferragnez](https://bit.ly/39DiOO5) | ospedale San Raffaele di Milano |
+| [No Name Varese](https://bit.ly/2TWe2or) | Ospedale di Circolo e Fondazione Macchi di Varese |
+| [Fondazione comunitaria del Lecchese](https://bit.ly/2Q20ztQ) | Presidi ospedalieri di Lecco, Bellano e Merate |
+| [Fondazione della comunità Bresciana Onlus](https://bit.ly/2VZiIwl) | Ospedali, medici, infermieri e volontari nella città di Brescia |
+| [Fondazione spedali civili di Brescia](https://bit.ly/2IAxSjH) | Acquistare per i propri presidi e per tutti gli ospedali della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus |
+| [Elisa Stagnati](https://bit.ly/2xqypm5)  | Ospedale di Cremona | 
+| [Annalisa Colnago e Luana Saiu](https://bit.ly/3aJdaKq ) | Ospedale San Gerardo di Monza |
+| [Ospedale Policlinico di Milano](https://bit.ly/33akMDs) | Ospedale Policlinico di Milano |
+| [Milena Porcu](https://bit.ly/2IBnrg0) | Ospedale di Crema |
+
+### Alto Adige  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Trentino  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Veneto  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Friuli Venezia Giulia  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Emilia Romagna  
+
+| | |
+| ------------- | -------------------------------- | 
+| [Fondazione Policlinico Sant'Orsola di Bologna](https://bit.ly/336z1ZE) | Ospedali di Bologna |
+| [Stefano Bacchini](https://bit.ly/2TTGjfh) | Ospedale Maggiore di Parma |
+
+### Toscana  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Umbria  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Marche  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Lazio  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Abruzzo  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Molise  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Campania  
+
+| | |
+| ------------- | -------------------------------- | 
+| [Federica De Masi](https://bit.ly/39Gp87s) | Ospedale Cotugno di Napoli |
+
+### Puglia  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Basilicata  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Calabria  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
+### Sicilia  
+
+| | |
+| ------------- | -------------------------------- | 
+| [Enrico Bellinghieri](https://bit.ly/39EYdcq)  | Ospedale Papardo di Messina |
+
+### Sardegna  
+<!---
+| | |
+| ------------- | -------------------------------- | 
+--->
