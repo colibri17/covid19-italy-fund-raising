@@ -42,27 +42,29 @@ ___
 
 ## Globale  
 
-## Globale  
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 | [Protezione Civile](https://bit.ly/38BIBVD) | Campagna a favore della protezione civile |
+| [#NonLasciamoIndietroNessuno](https://www.gofundme.com/f/nonlasciamoindietronessuno) | Founder dell’Iniziativa: Gruppo Giovani Assolombarda, Newco Management Srl, Andrea Petagna, Alfio Bardolla Training Group Spa, Spartan Tech Srl, Pop Sports,Agam, Forum Ecnomia Innovazione, Asseimpredil ANCE Milano, Junior Enterprise Italy, ELSA Milano, Associazione Italiana per la Direzione del Personale, Starting Finance Srl, GaragErasums, Aiesec Italia.|
 
 ### Piemonte  
+
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 | [Luciana Littizzetto](https://www.gofundme.com/f/coronavirus-riprendiamo-fiato) | Ospedali della regione Piemonte |
+
 ### Valle d Aosta  
 
 <!---
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 --->
 
 ### Liguria  
 
 <!---
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 --->
 
 ### Lombardia  
@@ -85,6 +87,7 @@ ___
 | [Eleonora Pasqualone](https://bit.ly/33iqvHr)| Ospedale Morelli Sondalo |
 | [Valentina Tomirotti](https://bit.ly/3aKnBxm) | Ospedale di Mantova |
 | [Selena Di Miceli](https://bit.ly/2wJ5BVu)| Fondazione IRCCS Policlinico San Matteo |
+| [Croce Rossa San Donato Milanese](https://www.facebook.com/donate/1144392135940427/?fundraiser_source=external_url) | Emergenza Coronavirus - Raccolta fondi CRI San Donato Milanese |
 
 ### Alto Adige  
 
@@ -94,9 +97,11 @@ ___
 --->
 
 ### Trentino  
+
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 | [Edoardo Meneghini](https://bit.ly/39RLL92) | Sistema sanitario Trentino |
+
 ### Veneto  
 
 <!---
@@ -105,9 +110,11 @@ ___
 --->
 
 ### Friuli Venezia Giulia  
+
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 [Guido Variola](https://bit.ly/3aNg2pV) | Ospedale di Udine |
+
 ### Emilia Romagna  
 
 | | |
@@ -118,10 +125,12 @@ ___
 | [Chiara CF](https://bit.ly/3aHXwPr) | Ospedale di Modena e Baggiovara |
 
 ### Toscana  
+
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 | [Michele Leonardi](https://bit.ly/2vXAJ3r) | Ospedale Versilia |
 | [Selena Di Miceli](https://bit.ly/2xtbcj9) | Ospedale di Lucca |
+
 ### Umbria  
 
 <!---
@@ -130,13 +139,17 @@ ___
 --->
 
 ### Marche  
+
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 | [Claudia Gatti e Giuliana Gatti](https://bit.ly/2wGN0JH) | Ospedale San Salvatore di Pesaro |
+
 ### Lazio  
+
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 | [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Istituto Spallanzani di Roma |
+
 ### Abruzzo  
 
 <!---
@@ -158,9 +171,11 @@ ___
 | [Federica De Masi](https://bit.ly/39Gp87s) | Ospedale Cotugno di Napoli |
 
 ### Puglia  
+
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 | [Barbara Palazzi](https://bit.ly/2vTuPAk) | Rafforzare le terapie intensive Pugliesi |
+
 ### Basilicata  
 
 <!---
@@ -169,11 +184,13 @@ ___
 --->
 
 ### Calabria  
+
 | | |
-| ------------- | -------------------------------- | 
+| ------------- | -------------------------------- |
 | [Francesco Gentile](https://bit.ly/2TRL6Op) | Ospedale di Reggio Calabria |
 | [Alfredo Taranto](https://bit.ly/2vJR8IV) | Azienda ospedaliera di Cosenza |
 | [Help Calabria](https://bit.ly/336rJ8o) | Ospedale Annunziata di Cosenza e il Pugliese Ciaccio di Catanzaro |
+
 ### Sicilia  
 
 | | |
