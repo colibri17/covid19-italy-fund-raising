@@ -80,6 +80,7 @@ ___
 | [Fondazione spedali civili di Brescia](https://bit.ly/2IAxSjH) | Acquistare per i propri presidi e per tutti gli ospedali della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus |
 | [Elisa Stagnati](https://bit.ly/2xqypm5)  | Ospedale di Cremona | 
 | [Annalisa Colnago e Luana Saiu](https://bit.ly/3aJdaKq ) | Ospedale San Gerardo di Monza |
+| [Isabella Contaldo](https://www.gofundme.com/f/1x9qxclzk0) | Ospedale San Gerardo di Monza |
 | [Ospedale Policlinico di Milano](https://bit.ly/33akMDs) | Ospedale Policlinico di Milano |
 | [Milena Porcu](https://bit.ly/2IBnrg0) | Ospedale di Crema |
 | [Chiara Villa](https://bit.ly/38BpVWd) | Ospedale Niguarda di Milano |
@@ -90,6 +91,7 @@ ___
 | [Croce Rossa San Donato Milanese](https://www.facebook.com/donate/1144392135940427/?fundraiser_source=external_url) | Emergenza Coronavirus - Raccolta fondi CRI San Donato Milanese |
 | [AC Milan](https://www.gofundme.com/f/emergenza-coronavirus-ospedali) | Azienda Regionale Emergenza Urgenza |
 | [Luigi De Stasio e Pierluigi De Stasio](https://www.gofundme.com/f/raccolta-covid19-san-carlo-paderno-dugnano) | Ospedale di Paderno Dugnano |
+| [Salvo Sottile](https://bit.ly/39L9FTG) | Realizzazione di nuove terapia agli ospedali di Bergamo, Brescia, e Ospedale Sacco di Milano |
 
 ## Alto Adige  
 
