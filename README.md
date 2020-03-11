@@ -62,10 +62,12 @@ ___
 
 ## Liguria  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Il Nerviese](https://www.gofundme.com/f/la-liguria-contro-il-coronavirus) | Ospedale Policlinico San Martino di Genova |
+| [Pietro Matteo Gallo](https://bit.ly/3aKJyfL) | Ospedale di Novi Ligure |
+| [Edoardo Santoro e Lorenzo Palenzona](https://bit.ly/39KxRpw) | Ospedale di Tortona |
+| [Pierguido Grassano](https://bit.ly/2vPcSmK) | Ospedale di Alessandria |
 
 ## Lombardia  
 
@@ -108,10 +110,10 @@ ___
 
 ## Veneto  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Conegliano In Cima](https://bit.ly/337OKYJ) | Ospedale di Conegliano |
+| [ULSS2](https://bit.ly/3aJUUAB) | Iniziative dell'ULSS 2 di Treviso |
 
 ## Friuli Venezia Giulia  
 
