@@ -88,6 +88,7 @@ ___
 | [Valentina Tomirotti](https://bit.ly/3aKnBxm) | Ospedale di Mantova |
 | [Selena Di Miceli](https://bit.ly/2wJ5BVu)| Fondazione IRCCS Policlinico San Matteo |
 | [Croce Rossa San Donato Milanese](https://www.facebook.com/donate/1144392135940427/?fundraiser_source=external_url) | Emergenza Coronavirus - Raccolta fondi CRI San Donato Milanese |
+| [AC Milan](https://www.gofundme.com/f/emergenza-coronavirus-ospedali) | Azienda Regionale Emergenza Urgenza |
 
 ## Alto Adige  
 
