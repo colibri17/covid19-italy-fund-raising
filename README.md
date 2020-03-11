@@ -96,14 +96,7 @@ ___
 | [Luigi De Stasio e Pierluigi De Stasio](https://www.gofundme.com/f/raccolta-covid19-san-carlo-paderno-dugnano) | Ospedale di Paderno Dugnano |
 | [Salvo Sottile](https://bit.ly/39L9FTG) | Realizzazione di nuove terapia agli ospedali di Bergamo, Brescia, e Ospedale Sacco di Milano |
 
-## Alto Adige  
-
-<!---
-| | |
-| ------------- | -------------------------------- |
---->
-
-## Trentino  
+## Trentino Alto Adige 
 
 | | |
 | ------------- | -------------------------------- |
