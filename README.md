@@ -101,7 +101,7 @@ ___
 | | |
 | ------------- | -------------------------------- |
 | [Edoardo Meneghini](https://bit.ly/39RLL92) | Sistema sanitario Trentino |
-| [Barbara Pedrotti](https://www.gofundme.com/f/coronavirus-insieme-per-il-trentino) |  raccolta fondi per aiutare l'Azienda Provinciale per i Servizi Sanitari del Trentino |
+| [Barbara Pedrotti](https://www.gofundme.com/f/coronavirus-insieme-per-il-trentino) |  Raccolta fondi per aiutare l'Azienda Provinciale per i Servizi Sanitari del Trentino |
 
 ## Veneto  
 
