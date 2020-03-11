@@ -202,7 +202,7 @@ ___
 ## Sardegna  
 | | |
 | ------------- | -------------------------------- |
-| [Miriana Massidda e Erika Massidda](https://bit.ly/39SL27X)  | Ospedale Papardo di Messina |
+| [Miriana Massidda e Erika Massidda](https://bit.ly/39SL27X)  | Ospedale SS Trinità |
 
 
 
