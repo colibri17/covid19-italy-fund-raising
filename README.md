@@ -124,6 +124,7 @@ ___
 | [Stefano Bacchini](https://bit.ly/2TTGjfh) | Ospedale Maggiore di Parma |
 | [Susanna Ismenghi e Asia Barugolo](https://bit.ly/39GqGP4) | Ospedale Infermi di Rimini |
 | [Chiara CF](https://bit.ly/3aHXwPr) | Ospedale di Modena e Baggiovara |
+| [Nicole Maria Giorgia Greggio](https://www.gofundme.com/f/aiutiamo-la-terapia-intensiva-del-santa-maria)| Ospedale Santa Maria Nuova di Reggio Emilia |
 
 ## Toscana  
 
