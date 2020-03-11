@@ -204,6 +204,11 @@ ___
 | [Enrico Bellinghieri](https://bit.ly/39EYdcq)  | Ospedale Papardo di Messina |
 
 ## Sardegna  
+| | |
+| ------------- | -------------------------------- |
+| [Miriana Massidda e Erika Massidda](https://bit.ly/39SL27X)  | Ospedale SS Trinità |
+
+
 
 <!---
 | | |
