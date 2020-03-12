@@ -50,6 +50,8 @@ ___
 | [#SeVuoiPuoi](https://www.gofundme.com/f/se-vuoi-puoi--controilcoronavirus)| Elisabetta Franchi sta organizzando questa campagna a sostegno degli ospedali che sono o si troveranno in difficoltà ad affrontare l’emergenza COVID-19. |
 | [Orlando Mattia Pastore](https://bit.ly/2IDwIE6) | Ospedali del Sud Italia |
 | [Eleonora Carla Torre](https://www.gofundme.com/f/aiutiamo-gli-ospedali-del-sud) | Ospedali del Sud Italia |
+| [Aiutiamoci A Vicenda](https://www.gofundme.com/f/raccolta-fondi-corona-virusaiutiamoci-a-vicenda) | Aiutare le regioni maggiormente colpite dal Coronavirus (COVID-19).
+| [Celeste Maria Contini](https://www.gofundme.com/f/sconfiggiamo-il-coronavirus) | Ospedali del Centro Italia |
 
 ## Piemonte  
 
@@ -115,6 +117,8 @@ ___
 | [Conegliano In Cima](https://bit.ly/337OKYJ) | Ospedale di Conegliano |
 | [ULSS2](https://bit.ly/3aJUUAB) | Iniziative dell'ULSS 2 di Treviso |
 | [Andreas Ronco](https://www.gofundme.com/f/aiutiamo-le-terapia-intensiva-in-veneto) | Ospedali Veneti di Padova e Treviso |
+| [Vola Onlus](https://www.gofundme.com/f/coronavirus-aiutiamo-la-ricerca-nel-bellunese) | Strumentazione di diagnostica molecolare necessaria per verificare la positività dei tamponi al COVID-19 |
+| [Elena Contiero](https://www.gofundme.com/f/aiuto-volontari-doposcuola-coronavirus) | Volontari associazione veneto
 
 ## Friuli Venezia Giulia  
 
@@ -141,10 +145,9 @@ ___
 
 ## Umbria  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [COVID-19 Emergency](https://www.gofundme.com/f/emergenza-coronavirus-umbria) | Raccolta fondi CoronaVirus |
 
 ## Marche  
 
