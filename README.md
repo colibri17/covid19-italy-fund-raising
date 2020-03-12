@@ -119,6 +119,7 @@ ___
 | [Andreas Ronco](https://www.gofundme.com/f/aiutiamo-le-terapia-intensiva-in-veneto) | Ospedali Veneti di Padova e Treviso |
 | [Vola Onlus](https://www.gofundme.com/f/coronavirus-aiutiamo-la-ricerca-nel-bellunese) | Strumentazione di diagnostica molecolare necessaria per verificare la positività dei tamponi al COVID-19 |
 | [Elena Contiero](https://www.gofundme.com/f/aiuto-volontari-doposcuola-coronavirus) | Volontari associazione veneto
+| [Andrea Ferro](https://www.gofundme.com/f/1x98m288ao) | Ospedali di Borgo Roma e Negrar |
 
 ## Friuli Venezia Giulia  
 
@@ -159,7 +160,9 @@ ___
 
 | | |
 | ------------- | -------------------------------- |
-| [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Istituto Spallanzani di Roma |
+| [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Ospedale Spallanzani di Roma |
+| [Giulia Rossi](https://www.gofundme.com/f/coronavirus-aiutiamo-ospedale-spallanzani-di-roma) | Ospedale Spallanzani di Roma | 
+| [Lorenzo Zanola](https://www.gofundme.com/f/fnzkte-coronavirus-aiutiamo-roma) | Ospedale Spallanzani di Roma |
 
 ## Abruzzo  
 
