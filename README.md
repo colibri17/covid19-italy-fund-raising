@@ -47,6 +47,7 @@ ___
 | [Protezione Civile](https://bit.ly/38BIBVD) | Campagna a favore della protezione civile |
 | [#Non Lasciamo Indietro Nessuno](https://www.gofundme.com/f/nonlasciamoindietronessuno) | Fondi che verranno devoluti alle strutture ospedaliere in maggiore difficoltà |
 | [#VinciamoNoi](https://www.charitystars.com/vinciamonoi) | Sosteniamo l’Ospedale Sacco di Milano, l’Ospedale San Matteo di Pavia, l’Ospedale Spallanzani di Roma e la Croce Rossa Italiana |
+| [#SeVuoiPuoi](https://www.gofundme.com/f/se-vuoi-puoi--controilcoronavirus)| Elisabetta Franchi sta organizzando questa campagna a sostegno degli ospedali che sono o si troveranno in difficoltà ad affrontare l’emergenza COVID-19. |
 
 ## Piemonte  
 
