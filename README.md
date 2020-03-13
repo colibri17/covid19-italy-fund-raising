@@ -52,6 +52,7 @@ ___
 | [Eleonora Carla Torre](https://www.gofundme.com/f/aiutiamo-gli-ospedali-del-sud) | Ospedali del Sud Italia |
 | [Aiutiamoci A Vicenda](https://www.gofundme.com/f/raccolta-fondi-corona-virusaiutiamoci-a-vicenda) | Aiutare le regioni maggiormente colpite dal Coronavirus (COVID-19).
 | [Celeste Maria Contini](https://www.gofundme.com/f/sconfiggiamo-il-coronavirus) | Ospedali del Centro Italia |
+| [#ViralForGood](https://www.charitystars.com/viralforgood) | A sostegno della Protezione Civile, insieme contro il coronavirus |
 
 ## Piemonte  
 
