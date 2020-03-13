@@ -61,6 +61,7 @@ ___
 | [Luciana Littizzetto](https://www.gofundme.com/f/coronavirus-riprendiamo-fiato) | Ospedali della regione Piemonte |
 | [Elisabetta Marchisa e Pietro Civera](https://www.gofundme.com/f/coronavirus-aiutiamo-la-terapia-intensiva-cuneo) | Ospedale di Cuneo |
 | [Leo Club](https://bit.ly/2WbpvDm) | Acquistare i materiali necessari all’Unità di Crisi e alle strutture e agli operatori socio-sanitari piemontesi e valdostani |
+| [Francesco Giacalone e Luca Vettore](https://www.gofundme.com/f/ospedale-di-alessandria) | Ospedale di Alessandria |
 
 ## Valle d Aosta  
 
@@ -78,6 +79,7 @@ ___
 | [Pietro Matteo Gallo](https://bit.ly/3aKJyfL) | Ospedale di Novi Ligure |
 | [Edoardo Santoro e Lorenzo Palenzona](https://bit.ly/39KxRpw) | Ospedale di Tortona |
 | [Pierguido Grassano](https://bit.ly/2vPcSmK) | Ospedale di Alessandria |
+| [Luigi De Vincenzi](https://www.gofundme.com/f/santa-corona-nel-cuore) | Ospedale di Santa Corona del Cuore |
 
 ## Lombardia  
 
@@ -85,6 +87,7 @@ ___
 | ------------- | -------------------------------- |  
 | [Regione Lombardia](https://bit.ly/2TDo1zZ) | I fondi raccolti saranno utilizzati per per sostenere le strutture sanitarie, i medici, infermieri operanti in regione Lombardia |  
 | [Ospedale di Bergamo Papa Giovanni XXIII](https://bit.ly/2v87RVO) | Ospedale Papa Giovanni XXIII di Bergamo | 
+| [Gloria Zavatta](https://www.gofundme.com/f/emergenza-covid-cesvi-per-bergamo) | Ospedale di Bergamo |
 | [Ferragnez](https://bit.ly/39DiOO5) | ospedale San Raffaele di Milano |
 | [No Name Varese](https://bit.ly/2TWe2or) | Ospedale di Circolo e Fondazione Macchi di Varese |
 | [Fondazione comunitaria del Lecchese](https://bit.ly/2Q20ztQ) | Presidi ospedalieri di Lecco, Bellano e Merate |
@@ -105,6 +108,11 @@ ___
 | [Luigi De Stasio e Pierluigi De Stasio](https://www.gofundme.com/f/raccolta-covid19-san-carlo-paderno-dugnano) | Ospedale di Paderno Dugnano |
 | [Salvo Sottile](https://bit.ly/39L9FTG) | Realizzazione di nuove terapia agli ospedali di Bergamo, Brescia, e Ospedale Sacco di Milano |
 | [Elio Brambati](http://bit.ly/2PY3NPh) | Volontari di Pronto Soccorso di Vimercate |
+| [Alessandro Carzaniga](https://www.gofundme.com/f/insieme-con-vimercate-contro-il-covid19) | Ospedale di Vimercate |
+| [Giulia Mantovani](https://www.gofundme.com/f/aiutiamo-lospedale-maggiore-di-lodi-covid19) | Ospedale di Lodi |
+| [Susanna Valentini](https://www.gofundme.com/f/covid19-ospedale-busto-arsizio) | Ospedale di Burso Arsizio |
+| [Fatebenefratelli Ordine Ospedaliero](https://www.gofundme.com/f/fatebenefratelli-erba-reparto-covid19) | Ospedale Sacra Famiglia di Erba |
+| [Giovanna Moleri](https://www.gofundme.com/f/aiutiamo-lospedale-di-treviglioromano-covid19) | Ospedale di Treviglio Romano |
 
 ## Trentino Alto Adige 
 
@@ -146,6 +154,9 @@ ___
 | ------------- | -------------------------------- |
 | [Michele Leonardi](https://bit.ly/2vXAJ3r) | Ospedale Versilia |
 | [Selena Di Miceli](https://bit.ly/2xtbcj9) | Ospedale di Lucca |
+| [Mirella Rechichi](https://www.gofundme.com/f/raccolta-fondi-ospedale-careggi-covid19) | Ospedale Careggi di Firenze |
+| [Fondo Marco Mungai](https://www.gofundme.com/f/covid19-sosteniamo-l039ospedale-di-pistoia) | Ospedale di Pistoia |
+| [Nicole Bosi Picchiotti](https://www.gofundme.com/f/covid-19-ospedale-santa-crocecastelnuovo-di-garf) |
 
 ## Umbria  
 
@@ -167,12 +178,16 @@ ___
 | [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Ospedale Spallanzani di Roma |
 | [Giulia Rossi](https://www.gofundme.com/f/coronavirus-aiutiamo-ospedale-spallanzani-di-roma) | Ospedale Spallanzani di Roma | 
 | [Lorenzo Zanola](https://www.gofundme.com/f/fnzkte-coronavirus-aiutiamo-roma) | Ospedale Spallanzani di Roma |
+| [Sapienza In Movimento](https://www.gofundme.com/f/covid19-raccolta-fondi-policlinico-umberto-1) | Ospedale Policlinico Umberto I |
+| [Fondazione Policlinico Universitario Agostino Gemelli](https://www.gofundme.com/f/sostieni-il-columbus-covid2-hospital) | Fondazione Policlinico Universitario Agostino Gemelli IRCCS |
+| [AS Roma](https://www.gofundme.com/f/1help-as-roma-tackle-covid19) | Ospedale Spallanzani di Roma |
 
 ## Abruzzo  
 
 | | |
 | ------------- | -------------------------------- |
 | [Si Scrive Abruzzo](https://bit.ly/2IQrgh7) | ASL abruzzesi in maniera da aiutare i reparti interessati dall'emergenza |
+| [Donatella Autore](https://www.gofundme.com/f/teramo-cardio-vs-covid19-andratuttobene) | Gruppo della Cardiochirurgia  dell'Ospedale di Teramo |
 
 ## Molise  
 
@@ -199,7 +214,8 @@ ___
 | ------------- | -------------------------------- |
 | [Simone Zaza](https://www.gofundme.com/f/1xaucxa3eo?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet) | Ospedali di Policoro, Potenza e Matera |
 | [Salvatore Falabella](https://bit.ly/39Qcm6A) | Terapie intensive degli ospedali della Basilicata | 
-| [Vito Riccardi](https://bit.ly/2xzn2Iz)| Ospedale Madonna delle Grazie di Matera
+| [Vito Riccardi](https://bit.ly/2xzn2Iz)| Ospedale Madonna delle Grazie di Matera |
+| [Valentina Garripoli](https://www.gofundme.com/f/aiutiamo-ospedale-san-carlo-emergenza-convid19) | Ospedale San Carlo di Potenza |
 
 ## Calabria  
 
@@ -208,6 +224,7 @@ ___
 | [Francesco Gentile](https://bit.ly/2TRL6Op) | Ospedale di Reggio Calabria |
 | [Alfredo Taranto](https://bit.ly/2vJR8IV) | Azienda ospedaliera di Cosenza |
 | [Help Calabria](https://bit.ly/336rJ8o) | Ospedale Annunziata di Cosenza e il Pugliese Ciaccio di Catanzaro |
+| [Antonio Arnò](https://www.gofundme.com/f/emergenza-covid19-aiutiamo-il-puglieseciaccio) | Azienda Ospedaliera “Pugliese-Ciaccio” |
 
 ## Sicilia  
 
