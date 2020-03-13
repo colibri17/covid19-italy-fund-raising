@@ -14,27 +14,27 @@ ___
 
 <!-- TOC -->
 
-- [Globale](#globale)  
-- [Piemonte](#piemonte)  
-- [Valle d Aosta](#valle-d-aosta)  
-- [Liguria](#liguria)  
-- [Lombardia](#lombardia)  
-- [Trentino Alto Adige](#trentino-alto-adige)  
-- [Veneto](#Veneto)  
-- [Friuli Venezia Giulia](#friuli-venezia-giulia)  
-- [Emilia Romagna](#emilia-romagna)  
-- [Toscana](#toscana)  
-- [Umbria](#umbria)  
-- [Marche](#marche)  
-- [Lazio](#lazio)  
-- [Abruzzo](#abruzzo)  
-- [Molise](#molise)  
-- [Campania](#campania)  
-- [Puglia](#puglia)  
-- [Basilicata](#basilicata)  
-- [Calabria](#calabria)  
-- [Sicilia](#sicilia)  
-- [Sardegna](#sardegna)  
+- [<img src="images/italia.png" width="30" height="30"> Globale](#globale)  
+- [<img src="images/piemonte.png" width="30" height="30"> Piemonte](#piemonte)  
+- [<img src="images/valledaosta.png" width="30" height="30"> Valle d Aosta](#valle-d-aosta)  
+- [<img src="images/liguria.png" width="30" height="30"> Liguria](#liguria)  
+- [<img src="images/lombardia.png" width="30" height="30"> Lombardia](#lombardia)  
+- [<img src="images/trentino.png" width="30" height="30"> Trentino Alto Adige](#trentino-alto-adige)  
+- [<img src="images/veneto.png" width="30" height="30"> Veneto](#Veneto)  
+- [<img src="images/friuli.png" width="30" height="30"> Friuli Venezia Giulia](#friuli-venezia-giulia)  
+- [<img src="images/emilia.png" width="30" height="30"> Emilia Romagna](#emilia-romagna)  
+- [<img src="images/toscana.png" width="30" height="30"> Toscana](#toscana)  
+- [<img src="images/umbria.png" width="30" height="30"> Umbria](#umbria)  
+- [<img src="images/marche.png" width="30" height="30"> Marche](#marche)  
+- [<img src="images/lazio.png" width="30" height="30"> Lazio](#lazio)  
+- [<img src="images/abruzzo.png" width="30" height="30"> Abruzzo](#abruzzo)  
+- [<img src="images/molise.png" width="30" height="30"> Molise](#molise)  
+- [<img src="images/campania.png" width="30" height="30"> Campania](#campania)  
+- [<img src="images/puglia.png" width="30" height="30"> Puglia](#puglia)  
+- [<img src="images/basilicata.png" width="30" height="30"> Basilicata](#basilicata)  
+- [<img src="images/calabria.png" width="30" height="30"> Calabria](#calabria)  
+- [<img src="images/sicilia.png" width="30" height="30"> Sicilia](#sicilia)  
+- [<img src="images/sardegna.png" width="30" height="30"> Sardegna](#sardegna)  
 
 <!-- /TOC -->
 
@@ -215,15 +215,9 @@ ___
 | [Flora Giorgia Lorenzino Fontana](https://www.gofundme.com/f/uniamoci-contro-il-coronavirus-ospedale-trapani) | Ospedale di Trapani |
 
 ## Sardegna  
+
 | | |
 | ------------- | -------------------------------- |
 | [Miriana Massidda e Erika Massidda](https://bit.ly/39SL27X)  | Ospedale SS Trinità |
-
-
-
-<!---
-| | |
-| ------------- | -------------------------------- |
---->
 
 [editreadme]: https://github.com/colibri17/covid19-italy-fund-raising/edit/master/README.md  
