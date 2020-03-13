@@ -156,7 +156,7 @@ ___
 | [Selena Di Miceli](https://bit.ly/2xtbcj9) | Ospedale di Lucca |
 | [Mirella Rechichi](https://www.gofundme.com/f/raccolta-fondi-ospedale-careggi-covid19) | Ospedale Careggi di Firenze |
 | [Fondo Marco Mungai](https://www.gofundme.com/f/covid19-sosteniamo-l039ospedale-di-pistoia) | Ospedale di Pistoia |
-| [Nicole Bosi Picchiotti](https://www.gofundme.com/f/covid-19-ospedale-santa-crocecastelnuovo-di-garf) |
+| [Nicole Bosi Picchiotti](https://www.gofundme.com/f/covid-19-ospedale-santa-crocecastelnuovo-di-garf) | Ospedale Santa Croce |
 
 ## Umbria  
 
