@@ -60,13 +60,14 @@ ___
 | ------------- | -------------------------------- |
 | [Luciana Littizzetto](https://www.gofundme.com/f/coronavirus-riprendiamo-fiato) | Ospedali della regione Piemonte |
 | [Elisabetta Marchisa e Pietro Civera](https://www.gofundme.com/f/coronavirus-aiutiamo-la-terapia-intensiva-cuneo) | Ospedale di Cuneo |
+| [Leo Club](https://bit.ly/2WbpvDm) | Acquistare i materiali necessari all’Unità di Crisi e alle strutture e agli operatori socio-sanitari piemontesi e valdostani |
 
 ## Valle d Aosta  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Leo Club](https://bit.ly/2WbpvDm) | Acquistare i materiali necessari all’Unità di Crisi e alle strutture e agli operatori socio-sanitari piemontesi e valdostani |
+| [Corrado Ferriani](https://www.gofundme.com/f/covid19-sosteniamo-la-terapia-intensiva-di-aosta) | Ospedale Parini di Aosta |
 
 ## Liguria  
 
@@ -151,6 +152,7 @@ ___
 | | |
 | ------------- | -------------------------------- |
 | [COVID-19 Emergency](https://www.gofundme.com/f/emergenza-coronavirus-umbria) | Raccolta fondi CoronaVirus |
+| [Giovanni Carinci] (https://www.gofundme.com/f/donazione-corona-virus-abruzzo) | Supportare la regione Abruzzo |
 
 ## Marche  
 
@@ -168,10 +170,9 @@ ___
 
 ## Abruzzo  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Si Scrive Abruzzo](https://bit.ly/2IQrgh7) | ASL abruzzesi in maniera da aiutare i reparti interessati dall'emergenza |
 
 ## Molise  
 
