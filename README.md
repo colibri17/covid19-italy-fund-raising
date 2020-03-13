@@ -96,6 +96,7 @@ ___
 | [AC Milan](https://www.gofundme.com/f/emergenza-coronavirus-ospedali) | Azienda Regionale Emergenza Urgenza |
 | [Luigi De Stasio e Pierluigi De Stasio](https://www.gofundme.com/f/raccolta-covid19-san-carlo-paderno-dugnano) | Ospedale di Paderno Dugnano |
 | [Salvo Sottile](https://bit.ly/39L9FTG) | Realizzazione di nuove terapia agli ospedali di Bergamo, Brescia, e Ospedale Sacco di Milano |
+| [Elio Brambati](http://bit.ly/2PY3NPh) | Volontari di Pronto Soccorso di Vimercate |
 
 ## Trentino Alto Adige 
 
