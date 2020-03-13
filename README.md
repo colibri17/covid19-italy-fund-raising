@@ -14,7 +14,7 @@ ___
 
 <!-- TOC -->
 
-- [Globale](#globale)  
+- ![alt](images/italia.png) [Globale](#globale)  
 - [Piemonte](#piemonte)  
 - [Valle d Aosta](#valle-d-aosta)  
 - [Liguria](#liguria)  
