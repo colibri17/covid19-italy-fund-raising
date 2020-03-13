@@ -48,12 +48,17 @@ ___
 | [#Non Lasciamo Indietro Nessuno](https://www.gofundme.com/f/nonlasciamoindietronessuno) | Fondi che verranno devoluti alle strutture ospedaliere in maggiore difficoltà |
 | [#VinciamoNoi](https://www.charitystars.com/vinciamonoi) | Sosteniamo l’Ospedale Sacco di Milano, l’Ospedale San Matteo di Pavia, l’Ospedale Spallanzani di Roma e la Croce Rossa Italiana |
 | [#SeVuoiPuoi](https://www.gofundme.com/f/se-vuoi-puoi--controilcoronavirus)| Elisabetta Franchi sta organizzando questa campagna a sostegno degli ospedali che sono o si troveranno in difficoltà ad affrontare l’emergenza COVID-19. |
+| [Orlando Mattia Pastore](https://bit.ly/2IDwIE6) | Ospedali del Sud Italia |
+| [Eleonora Carla Torre](https://www.gofundme.com/f/aiutiamo-gli-ospedali-del-sud) | Ospedali del Sud Italia |
+| [Aiutiamoci A Vicenda](https://www.gofundme.com/f/raccolta-fondi-corona-virusaiutiamoci-a-vicenda) | Aiutare le regioni maggiormente colpite dal Coronavirus (COVID-19).
+| [Celeste Maria Contini](https://www.gofundme.com/f/sconfiggiamo-il-coronavirus) | Ospedali del Centro Italia |
 
 ## Piemonte  
 
 | | |
 | ------------- | -------------------------------- |
 | [Luciana Littizzetto](https://www.gofundme.com/f/coronavirus-riprendiamo-fiato) | Ospedali della regione Piemonte |
+| [Elisabetta Marchisa e Pietro Civera](https://www.gofundme.com/f/coronavirus-aiutiamo-la-terapia-intensiva-cuneo) | Ospedale di Cuneo |
 
 ## Valle d Aosta  
 
@@ -67,6 +72,7 @@ ___
 | | |
 | ------------- | -------------------------------- |
 | [Il Nerviese](https://www.gofundme.com/f/la-liguria-contro-il-coronavirus) | Ospedale Policlinico San Martino di Genova |
+| [Michele Corti](https://www.gofundme.com/f/coronavirus-sosteniamo-il-policlinico-san-martino) | Ospedale Policlinico San Martino di Genova |
 | [Pietro Matteo Gallo](https://bit.ly/3aKJyfL) | Ospedale di Novi Ligure |
 | [Edoardo Santoro e Lorenzo Palenzona](https://bit.ly/39KxRpw) | Ospedale di Tortona |
 | [Pierguido Grassano](https://bit.ly/2vPcSmK) | Ospedale di Alessandria |
@@ -111,6 +117,10 @@ ___
 | ------------- | -------------------------------- |
 | [Conegliano In Cima](https://bit.ly/337OKYJ) | Ospedale di Conegliano |
 | [ULSS2](https://bit.ly/3aJUUAB) | Iniziative dell'ULSS 2 di Treviso |
+| [Andreas Ronco](https://www.gofundme.com/f/aiutiamo-le-terapia-intensiva-in-veneto) | Ospedali Veneti di Padova e Treviso |
+| [Vola Onlus](https://www.gofundme.com/f/coronavirus-aiutiamo-la-ricerca-nel-bellunese) | Strumentazione di diagnostica molecolare necessaria per verificare la positività dei tamponi al COVID-19 |
+| [Elena Contiero](https://www.gofundme.com/f/aiuto-volontari-doposcuola-coronavirus) | Volontari associazione veneto
+| [Andrea Ferro](https://www.gofundme.com/f/1x98m288ao) | Ospedali di Borgo Roma e Negrar |
 
 ## Friuli Venezia Giulia  
 
@@ -137,10 +147,9 @@ ___
 
 ## Umbria  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [COVID-19 Emergency](https://www.gofundme.com/f/emergenza-coronavirus-umbria) | Raccolta fondi CoronaVirus |
 
 ## Marche  
 
@@ -152,7 +161,9 @@ ___
 
 | | |
 | ------------- | -------------------------------- |
-| [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Istituto Spallanzani di Roma |
+| [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Ospedale Spallanzani di Roma |
+| [Giulia Rossi](https://www.gofundme.com/f/coronavirus-aiutiamo-ospedale-spallanzani-di-roma) | Ospedale Spallanzani di Roma | 
+| [Lorenzo Zanola](https://www.gofundme.com/f/fnzkte-coronavirus-aiutiamo-roma) | Ospedale Spallanzani di Roma |
 
 ## Abruzzo  
 
@@ -172,6 +183,7 @@ ___
 | | |
 | ------------- | -------------------------------- |
 | [Federica De Masi](https://bit.ly/39Gp87s) | Ospedale Cotugno di Napoli |
+| [Tony Maiello](https://www.gofundme.com/f/coronavirus-sud-rinforziamo-la-terapia-intensiva) | Ospedali della campagna |
 
 ## Puglia  
 
@@ -181,10 +193,11 @@ ___
 
 ## Basilicata  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Simone Zaza](https://www.gofundme.com/f/1xaucxa3eo?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet) | Ospedali di Policoro, Potenza e Matera |
+| [Salvatore Falabella](https://bit.ly/39Qcm6A) | Terapie intensive degli ospedali della Basilicata | 
+| [Vito Riccardi](https://bit.ly/2xzn2Iz)| Ospedale Madonna delle Grazie di Matera
 
 ## Calabria  
 
@@ -199,6 +212,7 @@ ___
 | | |
 | ------------- | -------------------------------- |
 | [Enrico Bellinghieri](https://bit.ly/39EYdcq)  | Ospedale Papardo di Messina |
+| [Flora Giorgia Lorenzino Fontana](https://www.gofundme.com/f/uniamoci-contro-il-coronavirus-ospedale-trapani) | Ospedale di Trapani |
 
 ## Sardegna  
 | | |
