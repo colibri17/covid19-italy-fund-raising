@@ -14,27 +14,27 @@ ___
 
 <!-- TOC -->
 
-- [Globale](#globale)  
-- [Piemonte](#piemonte)  
-- [Valle d Aosta](#valle-d-aosta)  
-- [Liguria](#liguria)  
-- [Lombardia](#lombardia)  
-- [Trentino Alto Adige](#trentino-alto-adige)  
-- [Veneto](#Veneto)  
-- [Friuli Venezia Giulia](#friuli-venezia-giulia)  
-- [Emilia Romagna](#emilia-romagna)  
-- [Toscana](#toscana)  
-- [Umbria](#umbria)  
-- [Marche](#marche)  
-- [Lazio](#lazio)  
-- [Abruzzo](#abruzzo)  
-- [Molise](#molise)  
-- [Campania](#campania)  
-- [Puglia](#puglia)  
-- [Basilicata](#basilicata)  
-- [Calabria](#calabria)  
-- [Sicilia](#sicilia)  
-- [Sardegna](#sardegna)  
+- [<img src="images/italia.png" width="30" height="30"> Globale](#globale)  
+- [<img src="images/piemonte.png" width="30" height="30"> Piemonte](#piemonte)  
+- [<img src="images/valledaosta.png" width="30" height="30"> Valle d Aosta](#valle-d-aosta)  
+- [<img src="images/liguria.png" width="30" height="30"> Liguria](#liguria)  
+- [<img src="images/lombardia.png" width="30" height="30"> Lombardia](#lombardia)  
+- [<img src="images/trentino.png" width="30" height="30"> Trentino Alto Adige](#trentino-alto-adige)  
+- [<img src="images/veneto.png" width="30" height="30"> Veneto](#Veneto)  
+- [<img src="images/friuli.png" width="30" height="30"> Friuli Venezia Giulia](#friuli-venezia-giulia)  
+- [<img src="images/emilia.png" width="30" height="30"> Emilia Romagna](#emilia-romagna)  
+- [<img src="images/toscana.png" width="30" height="30"> Toscana](#toscana)  
+- [<img src="images/umbria.png" width="30" height="30"> Umbria](#umbria)  
+- [<img src="images/marche.png" width="30" height="30"> Marche](#marche)  
+- [<img src="images/lazio.png" width="30" height="30"> Lazio](#lazio)  
+- [<img src="images/abruzzo.png" width="30" height="30"> Abruzzo](#abruzzo)  
+- [<img src="images/molise.png" width="30" height="30"> Molise](#molise)  
+- [<img src="images/campania.png" width="30" height="30"> Campania](#campania)  
+- [<img src="images/puglia.png" width="30" height="30"> Puglia](#puglia)  
+- [<img src="images/basilicata.png" width="30" height="30"> Basilicata](#basilicata)  
+- [<img src="images/calabria.png" width="30" height="30"> Calabria](#calabria)  
+- [<img src="images/sicilia.png" width="30" height="30"> Sicilia](#sicilia)  
+- [<img src="images/sardegna.png" width="30" height="30"> Sardegna](#sardegna)  
 
 <!-- /TOC -->
 
@@ -47,12 +47,18 @@ ___
 | [Protezione Civile](https://bit.ly/38BIBVD) | Campagna a favore della protezione civile |
 | [#Non Lasciamo Indietro Nessuno](https://www.gofundme.com/f/nonlasciamoindietronessuno) | Fondi che verranno devoluti alle strutture ospedaliere in maggiore difficoltà |
 | [#VinciamoNoi](https://www.charitystars.com/vinciamonoi) | Sosteniamo l’Ospedale Sacco di Milano, l’Ospedale San Matteo di Pavia, l’Ospedale Spallanzani di Roma e la Croce Rossa Italiana |
+| [#SeVuoiPuoi](https://www.gofundme.com/f/se-vuoi-puoi--controilcoronavirus)| Elisabetta Franchi sta organizzando questa campagna a sostegno degli ospedali che sono o si troveranno in difficoltà ad affrontare l’emergenza COVID-19. |
+| [Orlando Mattia Pastore](https://bit.ly/2IDwIE6) | Ospedali del Sud Italia |
+| [Eleonora Carla Torre](https://www.gofundme.com/f/aiutiamo-gli-ospedali-del-sud) | Ospedali del Sud Italia |
+| [Aiutiamoci A Vicenda](https://www.gofundme.com/f/raccolta-fondi-corona-virusaiutiamoci-a-vicenda) | Aiutare le regioni maggiormente colpite dal Coronavirus (COVID-19).
+| [Celeste Maria Contini](https://www.gofundme.com/f/sconfiggiamo-il-coronavirus) | Ospedali del Centro Italia |
 
 ## Piemonte  
 
 | | |
 | ------------- | -------------------------------- |
 | [Luciana Littizzetto](https://www.gofundme.com/f/coronavirus-riprendiamo-fiato) | Ospedali della regione Piemonte |
+| [Elisabetta Marchisa e Pietro Civera](https://www.gofundme.com/f/coronavirus-aiutiamo-la-terapia-intensiva-cuneo) | Ospedale di Cuneo |
 
 ## Valle d Aosta  
 
@@ -63,10 +69,13 @@ ___
 
 ## Liguria  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Il Nerviese](https://www.gofundme.com/f/la-liguria-contro-il-coronavirus) | Ospedale Policlinico San Martino di Genova |
+| [Michele Corti](https://www.gofundme.com/f/coronavirus-sosteniamo-il-policlinico-san-martino) | Ospedale Policlinico San Martino di Genova |
+| [Pietro Matteo Gallo](https://bit.ly/3aKJyfL) | Ospedale di Novi Ligure |
+| [Edoardo Santoro e Lorenzo Palenzona](https://bit.ly/39KxRpw) | Ospedale di Tortona |
+| [Pierguido Grassano](https://bit.ly/2vPcSmK) | Ospedale di Alessandria |
 
 ## Lombardia  
 
@@ -81,6 +90,7 @@ ___
 | [Fondazione spedali civili di Brescia](https://bit.ly/2IAxSjH) | Acquistare per i propri presidi e per tutti gli ospedali della provincia di Brescia, materiali e dispositivi necessari alla cura dei pazienti colpiti da coronavirus |
 | [Elisa Stagnati](https://bit.ly/2xqypm5)  | Ospedale di Cremona | 
 | [Annalisa Colnago e Luana Saiu](https://bit.ly/3aJdaKq ) | Ospedale San Gerardo di Monza |
+| [Isabella Contaldo](https://www.gofundme.com/f/1x9qxclzk0) | Ospedale San Gerardo di Monza |
 | [Ospedale Policlinico di Milano](https://bit.ly/33akMDs) | Ospedale Policlinico di Milano |
 | [Milena Porcu](https://bit.ly/2IBnrg0) | Ospedale di Crema |
 | [Chiara Villa](https://bit.ly/38BpVWd) | Ospedale Niguarda di Milano |
@@ -90,26 +100,27 @@ ___
 | [Selena Di Miceli](https://bit.ly/2wJ5BVu)| Fondazione IRCCS Policlinico San Matteo |
 | [Croce Rossa San Donato Milanese](https://www.facebook.com/donate/1144392135940427/?fundraiser_source=external_url) | Emergenza Coronavirus - Raccolta fondi CRI San Donato Milanese |
 | [AC Milan](https://www.gofundme.com/f/emergenza-coronavirus-ospedali) | Azienda Regionale Emergenza Urgenza |
+| [Luigi De Stasio e Pierluigi De Stasio](https://www.gofundme.com/f/raccolta-covid19-san-carlo-paderno-dugnano) | Ospedale di Paderno Dugnano |
+| [Salvo Sottile](https://bit.ly/39L9FTG) | Realizzazione di nuove terapia agli ospedali di Bergamo, Brescia, e Ospedale Sacco di Milano |
+| [Elio Brambati](http://bit.ly/2PY3NPh) | Volontari di Pronto Soccorso di Vimercate |
 
-## Alto Adige  
-
-<!---
-| | |
-| ------------- | -------------------------------- |
---->
-
-## Trentino  
+## Trentino Alto Adige 
 
 | | |
 | ------------- | -------------------------------- |
 | [Edoardo Meneghini](https://bit.ly/39RLL92) | Sistema sanitario Trentino |
+| [Barbara Pedrotti](https://www.gofundme.com/f/coronavirus-insieme-per-il-trentino) |  Raccolta fondi per aiutare l'Azienda Provinciale per i Servizi Sanitari del Trentino |
 
 ## Veneto  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Conegliano In Cima](https://bit.ly/337OKYJ) | Ospedale di Conegliano |
+| [ULSS2](https://bit.ly/3aJUUAB) | Iniziative dell'ULSS 2 di Treviso |
+| [Andreas Ronco](https://www.gofundme.com/f/aiutiamo-le-terapia-intensiva-in-veneto) | Ospedali Veneti di Padova e Treviso |
+| [Vola Onlus](https://www.gofundme.com/f/coronavirus-aiutiamo-la-ricerca-nel-bellunese) | Strumentazione di diagnostica molecolare necessaria per verificare la positività dei tamponi al COVID-19 |
+| [Elena Contiero](https://www.gofundme.com/f/aiuto-volontari-doposcuola-coronavirus) | Volontari associazione veneto
+| [Andrea Ferro](https://www.gofundme.com/f/1x98m288ao) | Ospedali di Borgo Roma e Negrar |
 
 ## Friuli Venezia Giulia  
 
@@ -136,10 +147,9 @@ ___
 
 ## Umbria  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [COVID-19 Emergency](https://www.gofundme.com/f/emergenza-coronavirus-umbria) | Raccolta fondi CoronaVirus |
 
 ## Marche  
 
@@ -151,7 +161,9 @@ ___
 
 | | |
 | ------------- | -------------------------------- |
-| [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Istituto Spallanzani di Roma |
+| [Consiglio GiovaniAprilia](https://bit.ly/3aGvpjR) | Ospedale Spallanzani di Roma |
+| [Giulia Rossi](https://www.gofundme.com/f/coronavirus-aiutiamo-ospedale-spallanzani-di-roma) | Ospedale Spallanzani di Roma | 
+| [Lorenzo Zanola](https://www.gofundme.com/f/fnzkte-coronavirus-aiutiamo-roma) | Ospedale Spallanzani di Roma |
 
 ## Abruzzo  
 
@@ -162,16 +174,16 @@ ___
 
 ## Molise  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Francesco Bozzi](https://bit.ly/3aLhHfp) | Raccolta fondi per le strutture ospedaliere del Molise |
 
 ## Campania  
 
 | | |
 | ------------- | -------------------------------- |
 | [Federica De Masi](https://bit.ly/39Gp87s) | Ospedale Cotugno di Napoli |
+| [Tony Maiello](https://www.gofundme.com/f/coronavirus-sud-rinforziamo-la-terapia-intensiva) | Ospedali della campagna |
 
 ## Puglia  
 
@@ -181,10 +193,11 @@ ___
 
 ## Basilicata  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Simone Zaza](https://www.gofundme.com/f/1xaucxa3eo?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet) | Ospedali di Policoro, Potenza e Matera |
+| [Salvatore Falabella](https://bit.ly/39Qcm6A) | Terapie intensive degli ospedali della Basilicata | 
+| [Vito Riccardi](https://bit.ly/2xzn2Iz)| Ospedale Madonna delle Grazie di Matera
 
 ## Calabria  
 
@@ -199,12 +212,12 @@ ___
 | | |
 | ------------- | -------------------------------- |
 | [Enrico Bellinghieri](https://bit.ly/39EYdcq)  | Ospedale Papardo di Messina |
+| [Flora Giorgia Lorenzino Fontana](https://www.gofundme.com/f/uniamoci-contro-il-coronavirus-ospedale-trapani) | Ospedale di Trapani |
 
 ## Sardegna  
 
-<!---
 | | |
 | ------------- | -------------------------------- |
---->
+| [Miriana Massidda e Erika Massidda](https://bit.ly/39SL27X)  | Ospedale SS Trinità |
 
 [editreadme]: https://github.com/colibri17/covid19-italy-fund-raising/edit/master/README.md  
