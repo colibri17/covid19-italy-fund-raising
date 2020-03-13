@@ -162,8 +162,7 @@ ___
 
 | | |
 | ------------- | -------------------------------- |
-| [COVID-19 Emergency](https://www.gofundme.com/f/emergenza-coronavirus-umbria) | Raccolta fondi CoronaVirus |
-| [Giovanni Carinci] (https://www.gofundme.com/f/donazione-corona-virus-abruzzo) | Supportare la regione Abruzzo |
+| [COVID-19 Emergency](https://www.gofundme.com/f/emergenza-coronavirus-umbria) | Raccolta fondi CoronaVirus per l'Umbria |
 
 ## Marche  
 
@@ -188,6 +187,7 @@ ___
 | ------------- | -------------------------------- |
 | [Si Scrive Abruzzo](https://bit.ly/2IQrgh7) | ASL abruzzesi in maniera da aiutare i reparti interessati dall'emergenza |
 | [Donatella Autore](https://www.gofundme.com/f/teramo-cardio-vs-covid19-andratuttobene) | Gruppo della Cardiochirurgia  dell'Ospedale di Teramo |
+| [Giovanni Carinci](https://www.gofundme.com/f/donazione-corona-virus-abruzzo) | Supportare la regione Abruzzo |
 
 ## Molise  
 
