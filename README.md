@@ -80,6 +80,7 @@ ___
 | [Edoardo Santoro e Lorenzo Palenzona](https://bit.ly/39KxRpw) | Ospedale di Tortona |
 | [Pierguido Grassano](https://bit.ly/2vPcSmK) | Ospedale di Alessandria |
 | [Luigi De Vincenzi](https://www.gofundme.com/f/santa-corona-nel-cuore) | Ospedale di Santa Corona del Cuore |
+| [Costa Estate e Anna Costa](https://www.gofundme.com/f/emergenza-coronavirus-demosenaman) | DemoseNaMan |
 
 ## Lombardia  
 
