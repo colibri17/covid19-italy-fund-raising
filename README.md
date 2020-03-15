@@ -81,6 +81,7 @@ ___
 | [Pierguido Grassano](https://bit.ly/2vPcSmK) | Ospedale di Alessandria |
 | [Luigi De Vincenzi](https://www.gofundme.com/f/santa-corona-nel-cuore) | Ospedale di Santa Corona del Cuore |
 | [Costa Estate e Anna Costa](https://www.gofundme.com/f/emergenza-coronavirus-demosenaman) | DemoseNaMan |
+| [Croce Rossa Italiana Comitato Della Spezia](https://www.gofundme.com/f/gt5mfa-coronavirus-aiutiamo-chi-e-in-prima-linea) | CORONAVIRUS, Aiutiamo chi è in prima linea |
 
 ## Lombardia  
 
