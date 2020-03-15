@@ -80,6 +80,7 @@ ___
 | [Edoardo Santoro e Lorenzo Palenzona](https://bit.ly/39KxRpw) | Ospedale di Tortona |
 | [Pierguido Grassano](https://bit.ly/2vPcSmK) | Ospedale di Alessandria |
 | [Luigi De Vincenzi](https://www.gofundme.com/f/santa-corona-nel-cuore) | Ospedale di Santa Corona del Cuore |
+| [Croce Rossa Italiana Comitato Della Spezia](https://www.gofundme.com/f/gt5mfa-coronavirus-aiutiamo-chi-e-in-prima-linea) | CORONAVIRUS, Aiutiamo chi è in prima linea
 
 ## Lombardia  
 
